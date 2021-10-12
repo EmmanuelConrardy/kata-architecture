@@ -11,13 +11,13 @@ Les kata d'architecture sont prévus pour un groupe de 3 à 5 personnes. L'anima
 Pour que l'exercice soit profitable il convient de respecter quelques règles:
 Les règles sont consitutés au fur et à mesure des phases de l'exercice, cependant l'animateur pourra vous répondre pour tous les points qui ne sont pas couvert par les règles.
 
-## Phase constitution des équipes
+## Phase constitution des équipes - 10 mins
 
 Veuillez essayer de ne pas vous mettre avec un connaissance ou quelqu'un avec qui vous avez l'habitude de travailler.
 Vous n'aurez pas besoin d'ordinateur à ce moment, en revanche l'utilisation de bloc-note, tableaux ou autres moyens collabortif est fortement recommandés premier arrivé premier servie.
 Une fois que votre équipe est constituée vous pouvez passer à la phase suivante.
 
-## Phase de discussions et design
+## Phase de discussions et design - 2x30mins
 
 C'est le moment de découvrir le domaine métier et les stratégies de l'entreprise.
 vous pouvez poser toutes les questions à l'animateur il jouera le rôle du client, du CEO, de l'Ops, Tech lead,...
@@ -27,12 +27,12 @@ Choississez une strategie et proposer une ou des architectures pour soutenir cet
 
 On attent une compréhension des préoccupations des parties prenantes, la présentation des attributs qui vont être selon vous necessaire. Une présentation de la version du système à atteindre et de la cible organisationelle.
 
-## Phase de revue :
+## Phase de revue - 30 mins
 
 C'est le moment où vous allez présenter votre architecture aux autres groupes. L'animateur peut prendre le rôle du client si c'est necessaire. Ceux qui assiste à la présentation devront poser des questions sur la compréhension du projets et les choix architecturaux.
 Si il y a confusion ou désacord l'animateur se garde le droit de clarifier ou mettre fin au débat.
  
-## La phase des votes
+## La phase des votes - 5 mins
 
 3 points : si vous pensez que l'équipe à reussi l'exercice, ils n'ont pas forcement encore répondu à toutes les attentes mais ils sont sur la bonne voie.
 2 points : Il y a quelques oublies qui vous font pensez qu'il y a encore des efforts à faire afin d'avoir une bonne vision de ce que l'équipe souhaite réaliser.
